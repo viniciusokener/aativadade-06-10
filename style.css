@@ -1,4 +1,13 @@
+body{
+    background: #cccccc
+}
 p{
 text-align: center;
-background: #cccccc
+
+}
+body{
+    background: #cccccc
+}
+strong{
+    color: crimson;
 }
